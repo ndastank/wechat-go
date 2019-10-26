@@ -16,6 +16,6 @@ require (
 	gopkg.in/fatih/color.v1 v1.7.0 // indirect
 	gopkg.in/mattn/go-colorable.v0 v0.0.9 // indirect
 	gopkg.in/mattn/go-isatty.v0 v0.0.4 // indirect
-	gopkg.in/mattn/go-runewidth.v0 v0.0.3 // indirect
+	gopkg.in/mattn/go-runewidth.v0 v1.0.3 // indirect
 	rsc.io/qr v0.2.0 // indirect
 )
